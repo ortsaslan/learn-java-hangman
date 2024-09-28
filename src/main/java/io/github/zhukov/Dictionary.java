@@ -9,7 +9,7 @@ class Dictionary {
             "science", "solution", "teacher", "technology", "television", "wheelchair", "watchdog", "warehouse",
             "youngster", "yoghurt", "zealot", "zenith" };
 
-    static String getRandomWord() {
+    public static String getRandomWord() {
         Random random = new Random();
         return WORDS[random.nextInt(WORDS.length)];
     }
