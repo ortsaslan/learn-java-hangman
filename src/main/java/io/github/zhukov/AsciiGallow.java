@@ -2,7 +2,7 @@ package io.github.zhukov;
 
 class AsciiGallow {
     private static final String[] GALLOW_STATE_PICS = {
-  """
+            """
   +---+
   |   |
       |
@@ -10,23 +10,23 @@ class AsciiGallow {
       |
       |
 =========""",
-  """
-  +---+
-  |   |
-  O   |
-      |
-      |
-      |
-=========""",
-  """
+            """
   +---+
   |   |
   O   |
+      |
+      |
+      |
+=========""",
+            """
+  +---+
+  |   |
+  O   |
   |   |
       |
       |
 =========""",
-  """
+            """
   +---+
   |   |
   O   |
@@ -34,7 +34,7 @@ class AsciiGallow {
       |
       |
 =========""",
-  """
+            """
   +---+
   |   |
   O   |
@@ -42,7 +42,7 @@ class AsciiGallow {
       |
       |
 =========""",
-  """
+            """
   +---+
   |   |
   O   |
@@ -50,7 +50,7 @@ class AsciiGallow {
  /    |
       |
 =========""",
-  """
+            """
   +---+
   |   |
   O   |
