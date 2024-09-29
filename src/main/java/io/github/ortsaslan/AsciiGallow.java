@@ -1,4 +1,4 @@
-package io.github.zhukov;
+package io.github.ortsaslan;
 
 class AsciiGallow {
     private static final String[] GALLOW_STATE_PICS = {

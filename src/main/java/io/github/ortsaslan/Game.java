@@ -1,4 +1,4 @@
-package io.github.zhukov;
+package io.github.ortsaslan;
 
 import java.util.Arrays;
 import java.util.Scanner;
